@@ -1,0 +1,8 @@
+Company: SUNON
+Name: GM0501PFB3-8
+Voltage: DC 5V
+Power: 0.2W
+Dimension(LxWxt)(mm): 20 x 20 x 10 
+
+Testing Voltage: 5.52V
+Velocity: 5 m/s

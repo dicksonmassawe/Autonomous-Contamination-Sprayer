@@ -1,0 +1,7 @@
+RTC - (A4, A5)
+SD CARD - (MIS, MOS, SCK, D4)
+RED LED - (D2)
+ULTRASONIC 1 - (3,5)
+ULTRASONIC 2 - (6,9)
+SIM800L - (8,7)
+FAN - (A1)
